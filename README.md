@@ -1,4 +1,4 @@
-# Real-Time Facial Emotion Recognition (Colab Guide)
+# Real-Time Facial Emotion Recognition
 
 This project trains a CNN to classify facial emotions using the CK+ dataset in Google Colab.
 
